@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.json": "jsonc",
+        "glad.h": "c",
+        "linmath.h": "c"
+    }
+}
